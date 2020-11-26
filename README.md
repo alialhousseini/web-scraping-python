@@ -1,7 +1,7 @@
 # web-scraping-python
 
 ### Script 1 and 2 are independent. Let’s start with script 1:
-In script 1,I used selenium, The selenium package is used to automate web browser interaction
+I used selenium, The selenium package is used to automate web browser interaction
 from Python.
 This script contains a function called indeed_job_search, this function try to open the chrome
 driver and scrape all the needed information and save them into a file called job_search.txt. In
